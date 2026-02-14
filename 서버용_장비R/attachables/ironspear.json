@@ -1,0 +1,32 @@
+{
+	"format_version": "1.20.60",
+	"minecraft:attachable": {
+		"description": {
+			"identifier": "bridge:ironspear",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/3Ditems/ironspear"
+			},
+			"geometry": {
+				"default": "geometry.ironspear"
+			},
+			"animations": {
+				"state": "animation.ironsword.new"
+	
+			},
+			"scripts": {
+				"animate": [
+					{
+						"state": "c.is_first_person"
+
+					}
+				]
+			},
+			"render_controllers": [
+				"controller.render.default"
+			]
+		}
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"format_version": "1.20.50",
+	"minecraft:item": {
+		"description": {
+			"identifier": "bridge:ironspear",
+			"menu_category": {
+				"category": "equipment",
+				"group": "itemGroup.name.sword"
+			}
+		},
+		"components": {
+			"minecraft:food": {
+				"can_always_eat": true
+			},
+			"minecraft:use_duration": 99999,
+			"minecraft:can_destroy_in_creative": false,
+			"minecraft:max_stack_size": 1,
+			"minecraft:icon": {
+				"texture": "bdironspear"
+			},
+			"minecraft:display_name": {
+				"value": "§l날카로운 강철창"
+			},
+			"minecraft:cooldown": {
+				"category": "lid",
+				"duration": 5
+			},
+			"minecraft:allow_off_hand": true,
+			"minecraft:should_despawn": true
+		}
+	}
+}

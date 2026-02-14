@@ -1,0 +1,21 @@
+{
+	"format_version": "1.20.60",
+	"minecraft:attachable": {
+		"description": {
+			"identifier": "bridge:dienahat",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/3Ditems/hat"
+			},
+			"geometry": {
+				"default": "geometry.diena_hat"
+			},
+			"scripts": {},
+			"render_controllers": [
+				"controller.render.default"
+			]
+		}
+	}
+}

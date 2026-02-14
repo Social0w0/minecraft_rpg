@@ -1,0 +1,21 @@
+{
+	"resource_pack_name": "RPGweapon",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"bridge_myweapon": {
+			"textures": "textures/items/myweapon"
+		},
+		"bdironsword": {
+			"textures": "textures/items/ironsword"
+		},
+		"bdironaxe": {
+			"textures": "textures/items/ironaxee"
+		},
+		"bdironspear": {
+			"textures": "textures/items/ironspearr"
+		},
+		"bridge_redmoon": {
+			"textures": "textures/items/__redmoon.geo_-_Blockbench_2024-06-09_오후_8_25_44-removebg-preview"
+		}
+	}
+}

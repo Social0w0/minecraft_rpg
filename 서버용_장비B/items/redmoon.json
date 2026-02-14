@@ -1,0 +1,11 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "bridge:redmoon"
+		},
+		"components": {
+			"minecraft:hand_equipped": true
+		}
+	}
+}

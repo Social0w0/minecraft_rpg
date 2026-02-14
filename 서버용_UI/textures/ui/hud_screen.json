@@ -1,0 +1,21 @@
+{
+  "format_version": 1,
+  "hud_screen": {
+    "modifications": [
+      {
+        "array_name": "controls",
+        "operation": "replace",
+        "where": {
+          "item_text": {}
+        },
+        "value": {
+          "item_text": {
+            "anchor_from": "center_middle",
+            "anchor_to": "center_middle",
+            "offset": [0, -40]
+          }
+        }
+      }
+    ]
+  }
+}

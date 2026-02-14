@@ -1,0 +1,23 @@
+{
+	"format_version": "1.20.60",
+	"minecraft:attachable": {
+		"description": {
+			"identifier": "bridge:model",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/3Ditems/model1"
+			},
+			"geometry": {
+				"default": "geometry.unknown"
+			},
+			"scripts": {
+				"pre_animation": []
+			},
+			"render_controllers": [
+				"controller.render.default"
+			]
+		}
+	}
+}

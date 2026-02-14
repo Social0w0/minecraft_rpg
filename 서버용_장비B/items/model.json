@@ -1,0 +1,12 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "bridge:model"
+		},
+		"components": {
+			"minecraft:max_damage": 15,
+			"minecraft:hand_equipped": true
+		}
+	}
+}

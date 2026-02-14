@@ -1,0 +1,18 @@
+{
+   "format_version" : 2,
+   "header" : {
+      "name" : "HUD Text Background Fix",
+      "description" : "Made by TI0 from The Hive, cleaned up and updated to fix the emote button on mobile by BoricAxe60254",
+      "uuid" : "18475738-88fa-4c31-8873-8b3e8235fcf4",
+      "version" : [ 1, 0, 1 ],
+      "min_engine_version": [ 1, 16, 0 ]
+   },
+   "modules" : [
+      {
+         "description" : "Made by TI0 from The Hive, updated by Boric",
+         "type" : "resources",
+         "uuid" : "18475738-88fa-4c31-8873-8b3e8235fca4",
+         "version" : [ 1, 0, 1 ]
+      }
+   ]
+}

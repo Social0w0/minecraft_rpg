@@ -1,0 +1,21 @@
+{
+	"format_version": "1.20.60",
+	"minecraft:attachable": {
+		"description": {
+			"identifier": "bridge:redmoon",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/3Ditems/redmoon"
+			},
+			"geometry": {
+				"default": "geometry.redmoon"
+			},
+			"scripts": {},
+			"render_controllers": [
+				"controller.render.default"
+			]
+		}
+	}
+}

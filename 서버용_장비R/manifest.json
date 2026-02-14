@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"bridge."
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.54"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "서버용_장비",
+		"description": "made by social0w0",
+		"min_engine_version": [
+			1,
+			21,
+			120
+		],
+		"uuid": "7565af88-f4a6-4701-9111-53721e7f9b2f",
+		"version": [
+			1,
+			0,
+			1
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "013a34b8-87e6-4f28-9641-ac52922bca08",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

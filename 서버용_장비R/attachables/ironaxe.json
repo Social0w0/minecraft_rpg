@@ -1,0 +1,31 @@
+{
+	"format_version": "1.20.60",
+	"minecraft:attachable": {
+		"description": {
+			"identifier": "bridge:ironaxe",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/3Ditems/ironaxe"
+			},
+			"geometry": {
+				"default": "geometry.ironaxe"
+			},
+			"animations": {
+				"state": "animation.ironaxe.new",
+				"axeslash1": "animation.ironaxe.slash"
+			},
+			"scripts": {
+				"animate": [
+					{
+						"state": "c.is_first_person"
+					}
+				]
+			},
+			"render_controllers": [
+				"controller.render.default"
+			]
+		}
+	}
+}
